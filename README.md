@@ -29,3 +29,14 @@ Projedeki temel varlıklar, İleri C\# özellikleri kullanılarak tasarlanmışt
 
 === Demo Senaryosu Tamamlandı ===
 ```
+[Kural Yüklendi]: Haftasonu Ek Ücreti Kuralı (UstaPlatform.Rules.Weekend.dll)
+
+[3] Dinamik Fiyat Hesaplaması Başlıyor (Plug-in Mimarisi Testi)...
+Başlangıç Ücreti: ?100,00
+-> Kural Uygulandı: Haftasonu Ek Ücreti Kuralı. (?100,00 -> ?120,00) 
+
+[4] İş Emri Çizelgeye Yerleştiriliyor...
+'Ahmet Usta' ustasının 25.10.2025 günündeki iş sayısı: 1
+Kontrol Edilen İş Emri Fiyatı: ?120,00
+
+=== Demo Senaryosu Tamamlandı ===
